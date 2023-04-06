@@ -1,0 +1,121 @@
+body
+{
+	background-image: url('front-pg-banner-v8.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.id4
+{
+	background-color: #408E91;
+	border-radius: 10px;
+	color: white;
+	height: 40px;
+	left: 1200px;
+	position: absolute;
+	top: 10px;
+	width: 120px;
+	
+}
+.id5
+{
+	background-color: #2E3840;
+	height: 40px;
+	width: 80px;
+	position: absolute;
+	top: 10px;
+	left: 1100px;
+	color: white;
+	border-radius: 10px;
+}
+.c
+{
+	border-radius: 5px;
+	background-color: #EA5455;
+	color: white;
+	position: absolute;
+	left: 620px;
+	top: 825px;
+	
+}
+.d 
+{
+	color: grey;
+	position: absolute;
+	width: 350px;
+	height: 350px;
+	left: 200px;
+	top: 830px;
+}
+.d1
+{
+	color: grey;
+	position: absolute;
+	width: 360px;
+	height: 350px;
+	left: 550px;
+	top: 830px;
+}
+.d2
+{
+	color: grey;
+	position: absolute;
+	width: 360px;
+	height: 350px;
+	left: 920px;
+	top: 830px;
+}
+.d3
+{
+	color: #DF2E38;
+	position: absolute;
+	width: 400px;
+	height: 350px;
+	left: 550px;
+	top: 1050px;
+
+}
+.d4
+{
+	color: #DF2E38;
+	position: absolute;
+	width: 400px;
+	height: 350px;
+	left: 630px;
+	top: 1080px;
+}
+.d5 
+{
+	background-color: #F3E8FF;
+	border-radius: 15px;
+	text-align: center;
+	color: grey;
+	position: absolute;
+	width: 350px;
+	height: 150px;
+	left: 200px;
+	top: 1160px;
+}
+.d6
+{
+	background-color: #F3E8FF;
+	border-radius: 15px;
+	text-align: center;
+	color: grey;
+	position: absolute;
+	width: 350px;
+	height: 150px;
+	left: 560px;
+	top: 1160px;
+}
+.d7
+{
+	background-color: #F3E8FF;
+	border-radius: 15px;
+	text-align: center;
+	color: grey;
+	position: absolute;
+	width: 350px;
+	height: 150px;
+	left: 920px;
+	top: 1160px;
+}
